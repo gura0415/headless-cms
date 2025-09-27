@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://headless-cms-rho.vercel.app/sitemap.xml
